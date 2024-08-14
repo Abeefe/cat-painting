@@ -1,15 +1,15 @@
-#Build A Cat Painting
+# Build A Cat Painting
 
 Learn Intermediate CSS by building a cat painting. Use of ==absolute== positioning, ==z-index== property and the ==transform== property.
 
-##Technologies
+## Technologies
 
 Uses HTML5 and CSS3.
 
-##Deployment
+## Deployment
 
 Deployed on [GitHub Pages](https://abeefe.github.io/cat-painting/) at the main branch.
 
-##Acknowledgements
+## Acknowledgements
 
 [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org)
