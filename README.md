@@ -8,7 +8,7 @@ Uses HTML5 and CSS3.
 
 ## Deployment
 
-Deployed on [GitHub Pages](https://abeefe.github.io/cat-painting/) at the main branch.
+Deployed on [GitHub Pages](https://iabeefe.github.io/cat-painting/) at the main branch.
 
 ## Acknowledgements
 
